@@ -1,2 +1,2 @@
-# Instaclone_project3
-This is frontend instaclone made by HTML and CSS
+# Ekeeda_pro3
+Instagram_clone with html css
